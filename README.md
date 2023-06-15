@@ -70,7 +70,7 @@ While designing this program, we made sure that we followed the SOLID principles
 
  An example of what viewing an empty schedule would look like.
  
-  ![Viewing a busy schedule](https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/89bd0d3a-d5d5-4594-847d-203ad8833143](https://github.com/pranay5432/Task_Scheduler/assets/103800231/b800c56a-34c7-4980-b7ae-d507a4d427f8)
+  ![Viewing a busy schedule](https://github.com/pranay5432/Task_Scheduler/assets/103800231/b800c56a-34c7-4980-b7ae-d507a4d427f8)
   
   The user view of a more busy schedule.
  
