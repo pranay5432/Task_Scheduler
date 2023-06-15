@@ -48,7 +48,7 @@ This screen displays the current goal or task that is being created. In the pict
 
 This screen gives the user the option to edit goals or tasks. In the image above, the user has the option to edit a goal that they created, changing its time, name, or desription. Once saved, the changes are applied to the schedule. If the user does not have any goals or tasks they will be told and given the option to return to the main menu.
 
-![Delete Goal/ Task]([https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/5951cec4-6775-4866-bf00-0fb04e6eea44](https://github.com/pranay5432/Task_Scheduler/assets/103800231/acdf5b1e-18ac-42f9-b4e2-26c57f4a3e16))
+![Delete Goal/ Task](https://github.com/pranay5432/Task_Scheduler/assets/103800231/acdf5b1e-18ac-42f9-b4e2-26c57f4a3e16)
 
 This screen allows the user to delete their goals or tasks. In the image above, the option to delete a goal is shown. Users are presented with information on all of their goals or tasks and their IDs. When selecting a goal to delete, the user enters in the goal's correspoinding ID number and confirms the delete to save. 
 
