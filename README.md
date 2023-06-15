@@ -38,7 +38,8 @@ The user is greeted with a menu upon running the program. They are prompted to e
 This screen displays the main menu for the user to see. It shows the 8 options that the user has, and the user can navigate through by pressing the number associated with the option and pressing enter. If they select 8, the program will exit. Otherwise, if the input is 1-7, the respective function will be entered into.
 
 
-![Create Goal/Task]([https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/1279ab38-358a-49cb-9ff9-2489a9c3d28b](https://github.com/pranay5432/Task_Scheduler/assets/103800231/f3d5c486-a56b-43a4-8299-f37c42c7e765))
+![Create Goal/Task](https://github.com/pranay5432/Task_Scheduler/assets/103800231/f3d5c486-a56b-43a4-8299-f37c42c7e765)
+
 
 This screen displays the current goal or task that is being created. In the picture above, it is the goal that is being created but the create tasks menu is very similar. Users are prompted with questions about the event they want to create and it is assigned to their schedule once saved.
 
