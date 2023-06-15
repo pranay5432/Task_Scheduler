@@ -28,7 +28,8 @@ The outputs are the results of what the user enters into the program. If they sa
 
 
 ### Navigation Diagram
-![Navagation Diagram](https://github.com/cs100/final-project-pthak008-jchan517-2/assets/111487418/ab86ffb7-b223-4e8d-a3e1-da0adc392a30)
+
+![Navagation Diagram](244703466-ab86ffb7-b223-4e8d-a3e1-da0adc392a30](https://github.com/pranay5432/Task_Scheduler/assets/103800231/10f25598-e979-4d80-a6e8-46bc5c02e9e1)
 The user is greeted with a menu upon running the program. They are prompted to enter certain inputs to access 7 different functions: Create Task, Create Goal, Edit Task, Edit Goal, Delete Task, Delete Goal, and View Schedule. Once they have walked through a function, they will be prompted with the option to return to the main menu.
 
 
