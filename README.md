@@ -44,7 +44,7 @@ This screen displays the main menu for the user to see. It shows the 8 options t
 This screen displays the current goal or task that is being created. In the picture above, it is the goal that is being created but the create tasks menu is very similar. Users are prompted with questions about the event they want to create and it is assigned to their schedule once saved.
 
 
-![Edit Goal/Task]([https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/8d3fe2ff-9f3a-4347-a1c2-1d6bd8aef284](https://github.com/pranay5432/Task_Scheduler/assets/103800231/1a25d2a5-1aa1-4896-898e-a29fe79d5d93))
+![Edit Goal/Task](https://github.com/pranay5432/Task_Scheduler/assets/103800231/1a25d2a5-1aa1-4896-898e-a29fe79d5d93)
 
 This screen gives the user the option to edit goals or tasks. In the image above, the user has the option to edit a goal that they created, changing its time, name, or desription. Once saved, the changes are applied to the schedule. If the user does not have any goals or tasks they will be told and given the option to return to the main menu.
 
