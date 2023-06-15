@@ -28,32 +28,33 @@ The outputs are the results of what the user enters into the program. If they sa
 
 
 ### Navigation Diagram
-
-![Navagation Diagram](244703466-ab86ffb7-b223-4e8d-a3e1-da0adc392a30](https://github.com/pranay5432/Task_Scheduler/assets/103800231/10f25598-e979-4d80-a6e8-46bc5c02e9e1)
+![Navagation Diagram](https://github.com/pranay5432/Task_Scheduler/assets/103800231/af7daae4-63cc-4241-bab0-a83833be654f)
 The user is greeted with a menu upon running the program. They are prompted to enter certain inputs to access 7 different functions: Create Task, Create Goal, Edit Task, Edit Goal, Delete Task, Delete Goal, and View Schedule. Once they have walked through a function, they will be prompted with the option to return to the main menu.
 
-
 ### Screen Layouts
-![Menu](https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/17ef736e-4c29-45ac-a013-6ddffcb3c073)
+![Menu](https://github.com/pranay5432/Task_Scheduler/assets/103800231/247764e1-0cc9-4aa9-90ce-8728f0e45e19)
+
 
 This screen displays the main menu for the user to see. It shows the 8 options that the user has, and the user can navigate through by pressing the number associated with the option and pressing enter. If they select 8, the program will exit. Otherwise, if the input is 1-7, the respective function will be entered into.
 
-![Create Goal/Task](https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/1279ab38-358a-49cb-9ff9-2489a9c3d28b)
+
+![Create Goal/Task]([https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/1279ab38-358a-49cb-9ff9-2489a9c3d28b](https://github.com/pranay5432/Task_Scheduler/assets/103800231/f3d5c486-a56b-43a4-8299-f37c42c7e765))
 
 This screen displays the current goal or task that is being created. In the picture above, it is the goal that is being created but the create tasks menu is very similar. Users are prompted with questions about the event they want to create and it is assigned to their schedule once saved.
 
-![Edit Goal/Task](https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/8d3fe2ff-9f3a-4347-a1c2-1d6bd8aef284)
+
+![Edit Goal/Task]([https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/8d3fe2ff-9f3a-4347-a1c2-1d6bd8aef284](https://github.com/pranay5432/Task_Scheduler/assets/103800231/1a25d2a5-1aa1-4896-898e-a29fe79d5d93))
 
 This screen gives the user the option to edit goals or tasks. In the image above, the user has the option to edit a goal that they created, changing its time, name, or desription. Once saved, the changes are applied to the schedule. If the user does not have any goals or tasks they will be told and given the option to return to the main menu.
 
-![Delete Goal/ Task](https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/5951cec4-6775-4866-bf00-0fb04e6eea44)
+![Delete Goal/ Task]([https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/5951cec4-6775-4866-bf00-0fb04e6eea44](https://github.com/pranay5432/Task_Scheduler/assets/103800231/acdf5b1e-18ac-42f9-b4e2-26c57f4a3e16))
 
 This screen allows the user to delete their goals or tasks. In the image above, the option to delete a goal is shown. Users are presented with information on all of their goals or tasks and their IDs. When selecting a goal to delete, the user enters in the goal's correspoinding ID number and confirms the delete to save. 
 
 
 ### Class Diagram
 
-![umlclassdiagram](https://github.com/cs100/final-project-pthak008-jchan517-2/assets/103800231/0fa1896d-4e28-4d5d-8388-7853dabfb095)
+![umlclassdiagram](https://github.com/pranay5432/Task_Scheduler/assets/103800231/03a7a7b5-41f3-4f26-94fc-b9026dddd65a)
 
 The above image is an UML class diagram of the classes used in the task scheduler. The program starts by showing the command line menu which consists of create goal, edit goal, delete goal, create task, edit task, delete task, and display schedule. The user can select an option through entering the number which is listed in front of each menu item. If you are reading this, you can refer to the screenshots for how to navigate the application to create goals and tasks and display the schedule.
 
@@ -64,11 +65,11 @@ The main program creates two lists which are goal and events. These are instance
 While designing this program, we made sure that we followed the SOLID principles. For example, we designed the classes in such a way that it follows the open and closed principle. You can add more classes without changing the code which acts on the classes. The interface segregation principle was also applied, as users are not forced to implement any interfaces they do not user. Furthermore, we applied the dependency inversion principle to enrure that no high level modules depend on low level ones.
  
  ## Screenshots
- ![Viewing an empty schedule](https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/695bdaee-de03-4532-9fe0-ef3f39af1f21)
- 
+ ![Viewing an empty schedule](https://github.com/pranay5432/Task_Scheduler/assets/103800231/3f0e5df6-de46-4474-b70d-97bb757b3eb8)
+
  An example of what viewing an empty schedule would look like.
  
-  ![Viewing a busy schedule](https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/89bd0d3a-d5d5-4594-847d-203ad8833143)
+  ![Viewing a busy schedule](https://github.com/cs100/final-project-pthak008-jchan517-2/assets/112217896/89bd0d3a-d5d5-4594-847d-203ad8833143](https://github.com/pranay5432/Task_Scheduler/assets/103800231/b800c56a-34c7-4980-b7ae-d507a4d427f8)
   
   The user view of a more busy schedule.
  
